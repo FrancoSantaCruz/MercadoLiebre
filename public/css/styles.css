@@ -1,0 +1,35 @@
+
+/*
+Amarillo: #EAC926;
+Azul: #03264C;
+Celeste: #1259c3;
+Gris oscuro: #666;
+Gris claro: #ebebeb;
+Verde: #39b54a;
+*/
+*{
+    padding: 0%;
+}
+
+header{
+    font-family: 'Roboto', sans-serif;
+    background-color: #EAC926;
+    background-size: cover;
+}
+
+header>p{
+    text-align: center;
+}
+
+body{
+    font-size: 12px;
+    
+}
+
+h3{
+    font-size: 24px;
+}
+
+h4{
+    font-size: 16px;
+}
